@@ -1,0 +1,61 @@
+about:
+  description: A vulnerability scanner for container images and filesystems
+  license: Apache-2.0
+  homepage: 
+  head: f6f2ce0
+  archived: false
+  latestVersion: v0.118.0
+  collectedAt: 2026-08-29T05:13:37Z
+timeline:
+  created: 2020-05-26
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 12799
+  watcher: 81
+  fork: 868
+  release: 202
+  contributor: 173
+  pullRequest: 328
+  issue: 1226
+language:
+  Go: 4345803
+  Go Template: 65702
+  Shell: 44103
+  Makefile: 8465
+  Python: 3297
+  Dockerfile: 1126
+totalLine: 4468496
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 23
+    openPR: 17
+    closedIssue: 4
+    openIssue: 6
+    commit: 26
+  last90d:
+    since: 2026-05-31
+    release: 7
+    mergedPR: 96
+    openPR: 34
+    closedIssue: 25
+    openIssue: 24
+    commit: 106
+  last180d:
+    since: 2026-03-02
+    release: 12
+    mergedPR: 211
+    openPR: 51
+    closedIssue: 42
+    openIssue: 52
+    commit: 218
+  last360d:
+    since: 2025-09-03
+    release: 28
+    mergedPR: 429
+    openPR: 58
+    closedIssue: 91
+    openIssue: 87
+    commit: 434
