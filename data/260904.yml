@@ -7,7 +7,7 @@ about:
   head: 65ec52e
   archived: false
   latestVersion: v0.118.0
-  collectedAt: 2026-09-04T19:19:00Z
+  collectedAt: 2026-09-04T21:14:13Z
 timeline:
   created: 2020-05-26
   lastCommit: 2026-09-04
@@ -85,6 +85,79 @@ total:
   openIssue: 330
   commit: 2352
 ---
+path: /home/runner/.x-repo/github.com/anchore/grype
+collectedAt: 2026-09-04T21:14:14Z
+loc:
+  Go:
+    code: 122850
+    comments: 10024
+    blanks: 14498
+    files: 749
+  Json:
+    code: 74191
+    comments: 0
+    blanks: 505
+    files: 566
+  Sh:
+    code: 1052
+    comments: 218
+    blanks: 342
+    files: 11
+  Sql:
+    code: 458
+    comments: 40
+    blanks: 468
+    files: 10
+  Yaml:
+    code: 293
+    comments: 166
+    blanks: 1
+    files: 36
+  Makefile:
+    code: 239
+    comments: 31
+    blanks: 79
+    files: 11
+  Python:
+    code: 112
+    comments: 3
+    blanks: 35
+    files: 3
+  Dockerfile:
+    code: 62
+    comments: 8
+    blanks: 8
+    files: 15
+  Java:
+    code: 14
+    comments: 1
+    blanks: 5
+    files: 1
+  JavaScript:
+    code: 7
+    comments: 5
+    blanks: 1
+    files: 1
+  Ebuild:
+    code: 2
+    comments: 19
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 689
+    blanks: 309
+    files: 14
+  Text:
+    code: 0
+    comments: 106
+    blanks: 11
+    files: 21
+total:
+  code: 199463
+  comments: 11365
+  blanks: 16302
+  files: 1439
 ---
 date: "2026-05-18T16:39:15Z"
 repo:
