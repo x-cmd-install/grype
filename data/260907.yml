@@ -5,18 +5,18 @@ about:
   head: 65ec52e
   archived: false
   latestVersion: "v0.118.0"
-  collectedAt: 2026-09-07T05:23:35Z
+  collectedAt: 2026-09-07T19:07:26Z
 timeline:
   created: 2020-05-26
   lastCommit: 2026-09-04
   lastRelease: 2026-08-27
 popularity:
-  star: 12844
+  star: 12851
   watcher: 83
-  fork: 873
+  fork: 875
   release: 202
   contributor: 152
-  pullRequest: 2418
+  pullRequest: 2419
   issue: 1228
 language:
   Go: 4345803
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 18
-    openPR: 13
+    openPR: 14
     closedIssue: 3
     openIssue: 6
     commit: 18
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-09
     release: 4
     mergedPR: 54
-    openPR: 31
+    openPR: 32
     closedIssue: 10
     openIssue: 14
     commit: 53
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-09
     release: 5
     mergedPR: 88
-    openPR: 35
+    openPR: 36
     closedIssue: 22
     openIssue: 22
     commit: 90
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-11
     release: 11
     mergedPR: 207
-    openPR: 53
+    openPR: 54
     closedIssue: 42
     openIssue: 48
     commit: 210
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-12
     release: 28
     mergedPR: 414
-    openPR: 62
+    openPR: 63
     closedIssue: 89
     openIssue: 85
     commit: 413
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-17
     release: 60
     mergedPR: 949
-    openPR: 70
+    openPR: 71
     closedIssue: 226
     openIssue: 157
     commit: 953
 total:
   release: 202
   mergedPR: 2084
-  openPR: 76
+  openPR: 77
   closedIssue: 899
   openIssue: 329
   commit: 2352
 ---
 path: /home/runner/.x-repo/github.com/anchore/grype
-collectedAt: 2026-09-07T05:23:40Z
+collectedAt: 2026-09-07T19:07:28Z
 loc:
   Go:
     code: 122850
@@ -306,7 +306,7 @@ checks:
       - 'Info: found contributions from: anchore, bold-technologies, cambia health, docker, microsoft, ptwikis, wiki-ai'
 ---
 eget:
-  collectedAt: 2026-09-07T05:23:42+00:00
+  collectedAt: 2026-09-07T19:07:29+00:00
   platform:
     darwin/arm64:
       name:  grype_0.118.0_darwin_arm64.tar.gz
