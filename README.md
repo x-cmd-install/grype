@@ -1,6 +1,24 @@
----
-owner-repo: anchore/grype
-desc:   A vulnerability scanner for container images and filesystems
----
-
 # grype
+
+A vulnerability scanner for container images and filesystems
+
+- **Upstream**: <https://github.com/anchore/grype>
+- **Homepage**: <>
+- **Latest release**: `v0.118.0` (2026-08-27)
+- **Last commit**: 2026-09-04
+- **License**: Apache-2.0
+- **Stars**: 12856 · **Forks**: 875 · **Open issues**: 1229 · **Contributors**: 152
+
+## Installation
+
+```sh
+x install grype
+```
+
+See <https://x-cmd.com/install/grype> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:35:40Z._
