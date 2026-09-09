@@ -2,12 +2,12 @@ about:
   description: "A vulnerability scanner for container images and filesystems"
   license: Apache-2.0
   homepage: 
-  head: 27c95c9
+  head: b695674
   archived: false
   latestVersion: "v0.118.0"
   latestRelease: "v0.118.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:24:47Z
+  collectedAt: 2026-09-09T19:42:45Z
 timeline:
   created: 2020-05-26
   lastCommit: 2026-09-09
@@ -15,83 +15,83 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 12859
+  star: 12864
   watcher: 83
   fork: 875
   release: 202
-  contributor: 152
+  contributor: 153
   pullRequest: 2420
   issue: 1229
 language:
-  Go: 4345803
+  Go: 4346939
   Go Template: 65702
   Shell: 44103
   Makefile: 8465
   Python: 3297
   Dockerfile: 1126
-totalBytes: 4468496
+totalBytes: 4469632
 recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 18
-    openPR: 12
-    closedIssue: 3
-    openIssue: 7
-    commit: 20
+    mergedPR: 19
+    openPR: 10
+    closedIssue: 4
+    openIssue: 6
+    commit: 21
   last60d:
     since: 2026-07-11
     release: 4
-    mergedPR: 51
-    openPR: 30
-    closedIssue: 10
-    openIssue: 15
-    commit: 55
+    mergedPR: 52
+    openPR: 28
+    closedIssue: 11
+    openIssue: 14
+    commit: 56
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 90
-    openPR: 35
-    closedIssue: 21
-    openIssue: 23
-    commit: 92
+    mergedPR: 91
+    openPR: 33
+    closedIssue: 22
+    openIssue: 22
+    commit: 93
   last180d:
     since: 2026-03-13
     release: 11
-    mergedPR: 206
-    openPR: 52
-    closedIssue: 42
-    openIssue: 49
-    commit: 212
+    mergedPR: 207
+    openPR: 50
+    closedIssue: 43
+    openIssue: 48
+    commit: 213
   last360d:
     since: 2025-09-14
     release: 28
-    mergedPR: 415
-    openPR: 62
-    closedIssue: 89
-    openIssue: 86
-    commit: 415
+    mergedPR: 416
+    openPR: 60
+    closedIssue: 90
+    openIssue: 85
+    commit: 416
   last720d:
     since: 2024-09-19
     release: 60
-    mergedPR: 948
-    openPR: 70
-    closedIssue: 225
-    openIssue: 158
-    commit: 953
+    mergedPR: 949
+    openPR: 68
+    closedIssue: 226
+    openIssue: 157
+    commit: 954
 total:
   release: 202
-  mergedPR: 2086
-  openPR: 76
-  closedIssue: 899
-  openIssue: 330
-  commit: 2354
+  mergedPR: 2087
+  openPR: 74
+  closedIssue: 900
+  openIssue: 329
+  commit: 2355
 ---
 path: /home/runner/.x-repo/github.com/anchore/grype
-collectedAt: 2026-09-09T05:24:50Z
+collectedAt: 2026-09-09T19:42:49Z
 loc:
   Go:
-    code: 122850
+    code: 122856
     comments: 10024
     blanks: 14498
     files: 749
@@ -156,7 +156,7 @@ loc:
     blanks: 11
     files: 21
 total:
-  code: 199463
+  code: 199469
   comments: 11365
   blanks: 16302
   files: 1439
