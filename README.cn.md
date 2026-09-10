@@ -12,7 +12,7 @@ A vulnerability scanner for container images and filesystems
 x install grype
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **199,286** 行代码（覆盖前 5 种语言、共 **1372** 个文件）。
 
@@ -47,7 +47,7 @@ x install grype
 
 ## 流行度
 
-- **Star**: 12,870 · **Fork**: 878 · **开放 issue**: 1,229 · **贡献者**: 153
+- **Star**: 12,871 · **Fork**: 878 · **开放 issue**: 1,229 · **贡献者**: 153
 
 ## 累计统计
 
@@ -109,4 +109,4 @@ grype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:35:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:10:24Z._
