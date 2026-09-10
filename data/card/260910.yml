@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.118.0"
   latestRelease: "v0.118.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:31:18Z
+  collectedAt: 2026-09-10T20:35:28Z
 timeline:
   created: 2020-05-26
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 12866
+  star: 12870
   watcher: 83
-  fork: 877
+  fork: 878
   release: 202
   contributor: 153
   pullRequest: 2421
@@ -88,7 +88,7 @@ total:
   commit: 2355
 ---
 path: /home/runner/.x-repo/github.com/anchore/grype
-collectedAt: 2026-09-10T05:31:20Z
+collectedAt: 2026-09-10T20:35:30Z
 loc:
   Go:
     code: 122856
