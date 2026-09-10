@@ -12,35 +12,7 @@ A vulnerability scanner for container images and filesystems
 x install grype
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/anchore/grype>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.118.0` (2026-08-27)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 18
-- **Published**: 2026-08-27T20:04:42Z
-
-## Popularity
-
-- **Stars**: 12,866 · **Forks**: 877 · **Open issues**: 1,229 · **Contributors**: 153
-
-## Totals (cumulative)
-
-- **Releases**: 202 · **Merged PRs**: 2087 · **Open PRs**: 75 · **Closed issues**: 900 · **Open issues**: 329 · **Commits**: 2355
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 18 | 11 | 4 | 6 | 21 |
-| 90d | 2026-06-12 | 5 | 88 | 34 | 22 | 22 | 93 |
-| 360d | 2025-09-15 | 28 | 412 | 61 | 90 | 85 | 416 |
-
-## Code size
+## Code insight
 
 Total: **199,286** lines of code across **1372** files in the top 5 languages.
 
@@ -62,13 +34,79 @@ Lowest-scoring checks:
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
+## Source
+
+- **Upstream**: <https://github.com/anchore/grype>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.118.0` (2026-08-27)
+- **Last commit**: 2026-09-09
+- **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 12,870 · **Forks**: 878 · **Open issues**: 1,229 · **Contributors**: 153
+
+## Totals (cumulative)
+
+- **Releases**: 202 · **Merged PRs**: 2087 · **Open PRs**: 75 · **Closed issues**: 900 · **Open issues**: 329 · **Commits**: 2355
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 18 | 11 | 4 | 6 | 21 |
+| last60d | 2026-07-12 | 4 | 52 | 29 | 11 | 14 | 56 |
+| 90d | 2026-06-12 | 5 | 88 | 34 | 22 | 22 | 93 |
+| last180d | 2026-03-14 | 11 | 207 | 51 | 43 | 48 | 213 |
+| 360d | 2025-09-15 | 28 | 412 | 61 | 90 | 85 | 416 |
+| last720d | 2024-09-20 | 60 | 948 | 69 | 225 | 157 | 954 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [grype_0.118.0_checksums.txt](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_checksums.txt) | 1.4 KiB | `other` |
+| [grype_0.118.0_checksums.txt.pem](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_checksums.txt.pem) | 3.2 KiB | `other` |
+| [grype_0.118.0_checksums.txt.sig](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_checksums.txt.sig) | 96 B | `other` |
+| [grype_0.118.0_darwin_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_darwin_amd64.tar.gz) | 30.3 MiB | `native/darwin/x64` |
+| [grype_0.118.0_darwin_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_darwin_arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
+| [grype_0.118.0_linux_amd64.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_amd64.deb) | 29.0 MiB | `native/linux/x64` |
+| [grype_0.118.0_linux_amd64.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_amd64.rpm) | 28.9 MiB | `native/linux/x64` |
+| [grype_0.118.0_linux_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_amd64.tar.gz) | 29.0 MiB | `native/linux/x64` |
+| [grype_0.118.0_linux_arm64.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_arm64.deb) | 26.4 MiB | `native/linux/arm64` |
+| [grype_0.118.0_linux_arm64.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_arm64.rpm) | 26.3 MiB | `native/linux/arm64` |
+| [grype_0.118.0_linux_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_arm64.tar.gz) | 26.5 MiB | `native/linux/arm64` |
+| [grype_0.118.0_linux_ppc64le.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_ppc64le.deb) | 26.4 MiB | `other` |
+| [grype_0.118.0_linux_ppc64le.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_ppc64le.rpm) | 26.3 MiB | `other` |
+| [grype_0.118.0_linux_ppc64le.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_ppc64le.tar.gz) | 26.4 MiB | `native/unknown` |
+| [grype_0.118.0_linux_s390x.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_s390x.deb) | 27.9 MiB | `runtime/deb/s390x` |
+| [grype_0.118.0_linux_s390x.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_s390x.rpm) | 27.8 MiB | `other` |
+| [grype_0.118.0_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_s390x.tar.gz) | 27.9 MiB | `native/unknown` |
+| [grype_0.118.0_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_windows_amd64.zip) | 29.7 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **79** distros on [repology.org](https://repology.org/project/grype). **8** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.118.0` | ✅ latest |
+| Fedora rawhide | `0.118.0` | ✅ latest |
+| Nix unstable | `0.118.0` | ✅ latest |
+| Void | `0.109.1` | ⚠️ outdated |
+| Alpine edge | `0.111.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.118.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `grype` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/grype.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/grype.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:31:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:35:37Z._

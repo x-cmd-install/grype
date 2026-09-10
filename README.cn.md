@@ -4,41 +4,13 @@
 
 A vulnerability scanner for container images and filesystems
 
-![grype](https://repo.x-cmd.io/grype.svg)
+![grype](https://repo.x-cmd.io/grype.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install grype
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/anchore/grype>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v0.118.0` (2026-08-27)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 18 个
-- **发布时间**: 2026-08-27T20:04:42Z
-
-## 流行度
-
-- **Star**: 12,866 · **Fork**: 877 · **开放 issue**: 1,229 · **贡献者**: 153
-
-## 累计统计
-
-- **发布数**: 202 · **已合并 PR**: 2087 · **开放 PR**: 75 · **已关闭 issue**: 900 · **开放 issue**: 329 · **提交数**: 2355
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 18 | 11 | 4 | 6 | 21 |
-| 90d | 2026-06-12 | 5 | 88 | 34 | 22 | 22 | 93 |
-| 360d | 2025-09-15 | 28 | 412 | 61 | 90 | 85 | 416 |
 
 ## 代码规模
 
@@ -62,6 +34,72 @@ x install grype
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
+## 源代码
+
+- **上游仓库**: <https://github.com/anchore/grype>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v0.118.0` (2026-08-27)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 18 个
+
+## 流行度
+
+- **Star**: 12,870 · **Fork**: 878 · **开放 issue**: 1,229 · **贡献者**: 153
+
+## 累计统计
+
+- **发布数**: 202 · **已合并 PR**: 2087 · **开放 PR**: 75 · **已关闭 issue**: 900 · **开放 issue**: 329 · **提交数**: 2355
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 18 | 11 | 4 | 6 | 21 |
+| last60d | 2026-07-12 | 4 | 52 | 29 | 11 | 14 | 56 |
+| 90d | 2026-06-12 | 5 | 88 | 34 | 22 | 22 | 93 |
+| last180d | 2026-03-14 | 11 | 207 | 51 | 43 | 48 | 213 |
+| 360d | 2025-09-15 | 28 | 412 | 61 | 90 | 85 | 416 |
+| last720d | 2024-09-20 | 60 | 948 | 69 | 225 | 157 | 954 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [grype_0.118.0_checksums.txt](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_checksums.txt) | 1.4 KiB | `other` |
+| [grype_0.118.0_checksums.txt.pem](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_checksums.txt.pem) | 3.2 KiB | `other` |
+| [grype_0.118.0_checksums.txt.sig](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_checksums.txt.sig) | 96 B | `other` |
+| [grype_0.118.0_darwin_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_darwin_amd64.tar.gz) | 30.3 MiB | `native/darwin/x64` |
+| [grype_0.118.0_darwin_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_darwin_arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
+| [grype_0.118.0_linux_amd64.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_amd64.deb) | 29.0 MiB | `native/linux/x64` |
+| [grype_0.118.0_linux_amd64.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_amd64.rpm) | 28.9 MiB | `native/linux/x64` |
+| [grype_0.118.0_linux_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_amd64.tar.gz) | 29.0 MiB | `native/linux/x64` |
+| [grype_0.118.0_linux_arm64.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_arm64.deb) | 26.4 MiB | `native/linux/arm64` |
+| [grype_0.118.0_linux_arm64.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_arm64.rpm) | 26.3 MiB | `native/linux/arm64` |
+| [grype_0.118.0_linux_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_arm64.tar.gz) | 26.5 MiB | `native/linux/arm64` |
+| [grype_0.118.0_linux_ppc64le.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_ppc64le.deb) | 26.4 MiB | `other` |
+| [grype_0.118.0_linux_ppc64le.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_ppc64le.rpm) | 26.3 MiB | `other` |
+| [grype_0.118.0_linux_ppc64le.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_ppc64le.tar.gz) | 26.4 MiB | `native/unknown` |
+| [grype_0.118.0_linux_s390x.deb](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_s390x.deb) | 27.9 MiB | `runtime/deb/s390x` |
+| [grype_0.118.0_linux_s390x.rpm](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_s390x.rpm) | 27.8 MiB | `other` |
+| [grype_0.118.0_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_linux_s390x.tar.gz) | 27.9 MiB | `native/unknown` |
+| [grype_0.118.0_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.118.0/grype_0.118.0_windows_amd64.zip) | 29.7 MiB | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/grype) 上共有 **79** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**55** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.118.0` | ✅ latest |
+| Fedora rawhide | `0.118.0` | ✅ latest |
+| Nix unstable | `0.118.0` | ✅ latest |
+| Void | `0.109.1` | ⚠️ outdated |
+| Alpine edge | `0.111.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.118.0` | ✅ latest |
+
 ## 改进这些数据
 
 grype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `grype` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +109,4 @@ grype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:31:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:35:39Z._
