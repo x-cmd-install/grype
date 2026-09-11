@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.118.0` (2026-08-27)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 12,871 · **Forks**: 878 · **Open issues**: 1,229 · **Contributors**: 153
+- **Stars**: 12,873 · **Forks**: 878 · **Open issues**: 1,229 · **Contributors**: 153
 
 ## Totals (cumulative)
 
-- **Releases**: 202 · **Merged PRs**: 2087 · **Open PRs**: 75 · **Closed issues**: 900 · **Open issues**: 329 · **Commits**: 2355
+- **Releases**: 202 · **Merged PRs**: 2088 · **Open PRs**: 75 · **Closed issues**: 900 · **Open issues**: 329 · **Commits**: 2356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 18 | 11 | 4 | 6 | 21 |
-| last60d | 2026-07-12 | 4 | 52 | 29 | 11 | 14 | 56 |
-| 90d | 2026-06-12 | 5 | 88 | 34 | 22 | 22 | 93 |
-| last180d | 2026-03-14 | 11 | 207 | 51 | 43 | 48 | 213 |
-| 360d | 2025-09-15 | 28 | 412 | 61 | 90 | 85 | 416 |
-| last720d | 2024-09-20 | 60 | 948 | 69 | 225 | 157 | 954 |
+| 30d | 2026-08-12 | 1 | 19 | 11 | 4 | 6 | 22 |
+| last60d | 2026-07-13 | 4 | 52 | 28 | 11 | 14 | 57 |
+| 90d | 2026-06-13 | 5 | 89 | 34 | 22 | 22 | 94 |
+| last180d | 2026-03-15 | 11 | 208 | 51 | 43 | 48 | 214 |
+| 360d | 2025-09-16 | 27 | 410 | 61 | 89 | 85 | 417 |
+| last720d | 2024-09-21 | 60 | 949 | 69 | 225 | 157 | 951 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:10:23Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:19:00Z._
