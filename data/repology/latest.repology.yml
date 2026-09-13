@@ -1,120 +1,10 @@
-- repo: alpine_3_18
-  subrepo: community
+- repo: homebrew
   srcname: grype
-  binname: grype
   visiblename: grype
-  version: 0.63.1
-  origversion: 0.63.1-r4
-  status: outdated
-  summary: Vulnerability scanner for container images, filesystems, and SBOMs
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: grype
-  binname: grype
-  visiblename: grype
-  version: 0.109.1
-  origversion: 0.109.1_1
-  status: outdated
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - cinerea0@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: grype
-  binname: grype-zsh-completion
-  visiblename: grype-zsh-completion
-  version: 0.61.0
-  origversion: 0.61.0-r1
-  status: outdated
-  summary: Zsh completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: grype
-  binname: grype
-  visiblename: grype
-  version: 0.61.0
-  origversion: 0.61.0-r1
-  status: outdated
-  summary: Vulnerability scanner for container images, filesystems, and SBOMs
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: grype
-  binname: grype-fish-completion
-  visiblename: grype-fish-completion
-  version: 0.61.0
-  origversion: 0.61.0-r1
-  status: outdated
-  summary: Fish completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: grype
-  binname: grype-bash-completion
-  visiblename: grype-bash-completion
-  version: 0.63.1
-  origversion: 0.63.1-r4
-  status: outdated
-  summary: Bash completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: grype
-  binname: grype-bash-completion
-  visiblename: grype-bash-completion
-  version: 0.61.0
-  origversion: 0.61.0-r1
-  status: outdated
-  summary: Bash completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: grype
-  binname: grype-fish-completion
-  visiblename: grype-fish-completion
-  version: 0.63.1
-  origversion: 0.63.1-r4
-  status: outdated
-  summary: Fish completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: grype
-  binname: grype-zsh-completion
-  visiblename: grype-zsh-completion
-  version: 0.63.1
-  origversion: 0.63.1-r4
-  status: outdated
-  summary: Zsh completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_19
   subrepo: community
   srcname: grype
@@ -124,6 +14,110 @@
   origversion: 0.73.4-r3
   status: outdated
   summary: Vulnerability scanner for container images, filesystems, and SBOMs
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: grype
+  binname: grype-bash-completion
+  visiblename: grype-bash-completion
+  version: 0.61.0
+  origversion: 0.61.0-r1
+  status: outdated
+  summary: Bash completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: grype
+  binname: grype
+  visiblename: grype
+  version: 0.61.0
+  origversion: 0.61.0-r1
+  status: outdated
+  summary: Vulnerability scanner for container images, filesystems, and SBOMs
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: grype
+  binname: grype-fish-completion
+  visiblename: grype-fish-completion
+  version: 0.61.0
+  origversion: 0.61.0-r1
+  status: outdated
+  summary: Fish completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: grype
+  binname: grype-zsh-completion
+  visiblename: grype-zsh-completion
+  version: 0.61.0
+  origversion: 0.61.0-r1
+  status: outdated
+  summary: Zsh completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: grype
+  binname: grype
+  visiblename: grype
+  version: 0.63.1
+  origversion: 0.63.1-r4
+  status: outdated
+  summary: Vulnerability scanner for container images, filesystems, and SBOMs
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: grype
+  binname: grype-bash-completion
+  visiblename: grype-bash-completion
+  version: 0.63.1
+  origversion: 0.63.1-r4
+  status: outdated
+  summary: Bash completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: grype
+  binname: grype-fish-completion
+  visiblename: grype-fish-completion
+  version: 0.63.1
+  origversion: 0.63.1-r4
+  status: outdated
+  summary: Fish completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: grype
+  binname: grype-zsh-completion
+  visiblename: grype-zsh-completion
+  version: 0.63.1
+  origversion: 0.63.1-r4
+  status: outdated
+  summary: Zsh completions for grype
   maintainers:
     - michal@polanski.me
   licenses:
@@ -550,6 +544,19 @@
   origversion: null
   status: outdated
   summary: A vulnerability scanner for container images and filesystems. Easily install the binary to try it out. Works with Syft, the powerful SBOM (software bill of materials) tool for container images and filesystems.
+- repo: gentoo
+  srcname: app-containers/grype
+  visiblename: app-containers/grype
+  version: 0.79.3
+  origversion: null
+  status: legacy
+  summary: A vulnerability scanner for container images and filesystems
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-containers
 - repo: fedora_43
   subrepo: updates
   srcname: grype
@@ -582,6 +589,19 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-4.0 AND CC0-1.0 AND GPL-2.0-only AND ISC AND LicenseRef-Fedora-Public-Domain AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later) AND (LicenseRef-Fedora-Public-Domain OR LicenseRef-scancode-other-permissive)
   categories:
     - Unspecified
+- repo: liguros_develop
+  srcname: app-containers/grype
+  visiblename: app-containers/grype
+  version: 0.61.0
+  origversion: null
+  status: legacy
+  summary: A vulnerability scanner for container images and filesystems
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-containers
 - repo: fedora_rawhide
   subrepo: development
   srcname: grype
@@ -663,19 +683,6 @@
     - Apache-2.0
   categories:
     - app-containers
-- repo: gentoo
-  srcname: app-containers/grype
-  visiblename: app-containers/grype
-  version: 0.79.3
-  origversion: null
-  status: legacy
-  summary: A vulnerability scanner for container images and filesystems
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - app-containers
 - repo: homebrew
   srcname: grype
   visiblename: grype
@@ -683,13 +690,6 @@
   origversion: null
   status: newest
   summary: Vulnerability scanner for container images and filesystems
-- repo: homebrew
-  srcname: grype
-  visiblename: grype
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Vulnerability scanner for container images and filesystems
 - repo: liguros_stable
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -824,19 +824,6 @@
   srcname: app-containers/grype
   visiblename: app-containers/grype
   version: 0.73.0
-  origversion: null
-  status: legacy
-  summary: A vulnerability scanner for container images and filesystems
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - app-containers
-- repo: liguros_develop
-  srcname: app-containers/grype
-  visiblename: app-containers/grype
-  version: 0.61.0
   origversion: null
   status: legacy
   summary: A vulnerability scanner for container images and filesystems
@@ -864,9 +851,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-clang-x86_64-grype
   visiblename: mingw-w64-clang-x86_64-grype
-  version: 0.100.0
-  origversion: 0.100.0-1
-  status: outdated
+  version: 0.118.0
+  origversion: 0.118.0-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -874,9 +861,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-clang-aarch64-grype
   visiblename: mingw-w64-clang-aarch64-grype
-  version: 0.100.0
-  origversion: 0.100.0-1
-  status: outdated
+  version: 0.118.0
+  origversion: 0.118.0-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -885,9 +872,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-x86_64-grype
   visiblename: mingw-w64-x86_64-grype
-  version: 0.100.0
-  origversion: 0.100.0-1
-  status: outdated
+  version: 0.118.0
+  origversion: 0.118.0-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -895,9 +882,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-ucrt-x86_64-grype
   visiblename: mingw-w64-ucrt-x86_64-grype
-  version: 0.100.0
-  origversion: 0.100.0-1
-  status: outdated
+  version: 0.118.0
+  origversion: 0.118.0-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -1005,5 +992,18 @@
   version: 0.118.0
   origversion: null
   status: newest
+  licenses:
+    - Apache-2.0
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: grype
+  binname: grype
+  visiblename: grype
+  version: 0.109.1
+  origversion: 0.109.1_1
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - cinerea0@protonmail.com
   licenses:
     - Apache-2.0
