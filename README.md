@@ -4,7 +4,7 @@
 
 A vulnerability scanner for container images and filesystems
 
-[![x-cmd/install — grype Code Quality Monitoring Repo Card](https://repo.x-cmd.io/grype.svg)](https://x-cmd.com/install/grype)
+[![x-cmd/install — grype Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/grype.svg)](https://x-cmd.com/install/grype)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,913 · **Forks**: 883 · **Open issues**: 1,231 · **Contributors**: 154
+- **Stars**: 12,916 · **Forks**: 884 · **Open issues**: 1,231 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 2102 · **Open PRs**: 79 · **Closed issues**: 907 · **Open issues**: 324 · **Commits**: 2370
+- **Releases**: 203 · **Merged PRs**: 2102 · **Open PRs**: 80 · **Closed issues**: 907 · **Open issues**: 324 · **Commits**: 2370
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 27 | 12 | 4 | 3 | 26 |
-| last60d | 2026-07-24 | 4 | 49 | 29 | 10 | 8 | 50 |
-| 90d | 2026-06-24 | 6 | 91 | 37 | 21 | 12 | 92 |
-| last180d | 2026-03-26 | 11 | 200 | 54 | 46 | 39 | 202 |
-| 360d | 2025-09-27 | 28 | 414 | 65 | 95 | 79 | 415 |
-| last720d | 2024-10-02 | 59 | 948 | 73 | 232 | 152 | 951 |
+| 30d | 2026-08-24 | 2 | 26 | 13 | 4 | 3 | 26 |
+| last60d | 2026-07-25 | 4 | 49 | 29 | 10 | 8 | 50 |
+| 90d | 2026-06-25 | 6 | 89 | 37 | 21 | 12 | 92 |
+| last180d | 2026-03-27 | 11 | 197 | 55 | 46 | 39 | 202 |
+| 360d | 2025-09-28 | 28 | 414 | 66 | 95 | 79 | 415 |
+| last720d | 2024-10-03 | 59 | 948 | 74 | 232 | 151 | 949 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:34:37Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:46:06Z._
