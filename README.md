@@ -14,12 +14,12 @@ x install grype
 
 ## Code insight
 
-Total: **199,619** lines of code across **1374** files in the top 5 languages.
+Total: **199,620** lines of code across **1374** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 123,189 | 10,125 | 14,551 | 751 |
-| Json | 74,191 | 0 | 505 | 566 |
+| Json | 74,192 | 0 | 505 | 566 |
 | Sh | 1,052 | 218 | 342 | 11 |
 | Sql | 458 | 40 | 468 | 10 |
 | Yaml | 293 | 166 | 1 | 36 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.119.0` (2026-09-17)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 12,938 · **Forks**: 889 · **Open issues**: 1,238 · **Contributors**: 154
+- **Stars**: 12,948 · **Forks**: 890 · **Open issues**: 1,238 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 2110 · **Open PRs**: 88 · **Closed issues**: 907 · **Open issues**: 331 · **Commits**: 2378
+- **Releases**: 203 · **Merged PRs**: 2111 · **Open PRs**: 87 · **Closed issues**: 907 · **Open issues**: 331 · **Commits**: 2379
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 29 | 21 | 3 | 9 | 30 |
-| last60d | 2026-07-30 | 3 | 54 | 33 | 9 | 13 | 53 |
-| 90d | 2026-06-30 | 5 | 95 | 45 | 17 | 19 | 88 |
-| last180d | 2026-04-01 | 11 | 196 | 61 | 45 | 46 | 201 |
-| 360d | 2025-10-03 | 28 | 409 | 74 | 92 | 86 | 409 |
-| last720d | 2024-10-08 | 58 | 947 | 82 | 228 | 157 | 950 |
+| 30d | 2026-08-30 | 1 | 29 | 20 | 1 | 9 | 31 |
+| last60d | 2026-07-31 | 3 | 52 | 29 | 9 | 12 | 54 |
+| 90d | 2026-07-01 | 5 | 94 | 44 | 17 | 19 | 89 |
+| last180d | 2026-04-02 | 11 | 191 | 60 | 45 | 46 | 202 |
+| 360d | 2025-10-04 | 28 | 410 | 73 | 92 | 86 | 410 |
+| last720d | 2024-10-09 | 58 | 945 | 81 | 228 | 157 | 951 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:55:11Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:17:43Z._
