@@ -14,14 +14,14 @@ x install grype
 
 ## Code insight
 
-Total: **199,805** lines of code across **1375** files in the top 5 languages.
+Total: **201,760** lines of code across **1381** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 123,374 | 10,132 | 14,573 | 752 |
-| Json | 74,192 | 0 | 505 | 566 |
-| Sh | 1,052 | 218 | 342 | 11 |
-| Sql | 458 | 40 | 468 | 10 |
+| Go | 124,159 | 10,199 | 14,627 | 752 |
+| Json | 75,141 | 0 | 505 | 569 |
+| Sh | 1,222 | 247 | 386 | 13 |
+| Sql | 509 | 44 | 520 | 11 |
 | Yaml | 293 | 166 | 1 | 36 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.119.0` (2026-09-17)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 12,962 · **Forks**: 892 · **Open issues**: 1,240 · **Contributors**: 157
+- **Stars**: 12,966 · **Forks**: 893 · **Open issues**: 1,243 · **Contributors**: 158
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 2116 · **Open PRs**: 84 · **Closed issues**: 911 · **Open issues**: 329 · **Commits**: 2384
+- **Releases**: 203 · **Merged PRs**: 2123 · **Open PRs**: 81 · **Closed issues**: 912 · **Open issues**: 331 · **Commits**: 2391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 32 | 18 | 4 | 8 | 36 |
-| last60d | 2026-08-02 | 3 | 55 | 27 | 12 | 11 | 59 |
-| 90d | 2026-07-03 | 5 | 85 | 42 | 19 | 18 | 94 |
-| last180d | 2026-04-04 | 11 | 190 | 58 | 49 | 43 | 207 |
-| 360d | 2025-10-06 | 28 | 413 | 70 | 95 | 84 | 415 |
-| last720d | 2024-10-11 | 58 | 947 | 78 | 229 | 155 | 949 |
+| 30d | 2026-09-02 | 1 | 38 | 15 | 4 | 11 | 43 |
+| last60d | 2026-08-03 | 3 | 61 | 24 | 12 | 14 | 66 |
+| 90d | 2026-07-04 | 5 | 92 | 39 | 19 | 21 | 101 |
+| last180d | 2026-04-05 | 11 | 197 | 55 | 49 | 46 | 214 |
+| 360d | 2025-10-07 | 28 | 420 | 67 | 95 | 87 | 422 |
+| last720d | 2024-10-12 | 58 | 954 | 75 | 230 | 157 | 954 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:22:07Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:10:57Z._
