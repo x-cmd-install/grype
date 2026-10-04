@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1468,
       "digest": "sha256:d7c05f43143d2bb77a49cf91ad81514e9774433c35a1a901850612eb9edc8fb6",
-      "download_count": 7141,
+      "download_count": 14492,
       "created_at": "2026-10-02T14:23:15Z",
       "updated_at": "2026-10-02T14:23:15Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10534,
       "digest": "sha256:d0af7551389e2740b58d8b6737597d0a2706308f95448e8e63f0ab64d34361b8",
-      "download_count": 120,
+      "download_count": 317,
       "created_at": "2026-10-02T14:23:16Z",
       "updated_at": "2026-10-02T14:23:16Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 31829962,
       "digest": "sha256:e77ed0159ba2c291a7319c2c345cbae79bcd93dee901f77d29472ce1908e5ed0",
-      "download_count": 53,
+      "download_count": 100,
       "created_at": "2026-10-02T14:23:09Z",
       "updated_at": "2026-10-02T14:23:11Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 29123956,
       "digest": "sha256:d27d39ba25ba2d2a1d1568219ff159310d2cb54f3cdd5293e5820c5c784f7f11",
-      "download_count": 317,
+      "download_count": 603,
       "created_at": "2026-10-02T14:23:09Z",
       "updated_at": "2026-10-02T14:23:11Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 30527152,
       "digest": "sha256:3b8587e3d8a0c5757aad756335dd3e0f5f097f515637984b239de2dfc38c4509",
-      "download_count": 65,
+      "download_count": 95,
       "created_at": "2026-10-02T14:23:14Z",
       "updated_at": "2026-10-02T14:23:16Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 30445533,
       "digest": "sha256:d66680902a581f81ded0388ca06efb1465e5dbccd99b4becfd4b6577acb631e4",
-      "download_count": 69,
+      "download_count": 114,
       "created_at": "2026-10-02T14:23:12Z",
       "updated_at": "2026-10-02T14:23:13Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_amd64.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 30535314,
       "digest": "sha256:a5a1218dce63acdac152a6b3b5bb366e7267e36f4069848cf455543b3fa5700e",
-      "download_count": 7145,
+      "download_count": 15001,
       "created_at": "2026-10-02T14:23:07Z",
       "updated_at": "2026-10-02T14:23:09Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 27870740,
       "digest": "sha256:c2a3b5ea319a598d246a2910508d5d0aa89a2563dad19fb3ef4a474258ef6ecc",
-      "download_count": 36,
+      "download_count": 52,
       "created_at": "2026-10-02T14:23:12Z",
       "updated_at": "2026-10-02T14:23:13Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_arm64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 27729544,
       "digest": "sha256:6790ddf9974748654229070f691a43456c0ad743301b8965af1d344064e450ba",
-      "download_count": 33,
+      "download_count": 48,
       "created_at": "2026-10-02T14:23:10Z",
       "updated_at": "2026-10-02T14:23:11Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_arm64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 27877161,
       "digest": "sha256:bc0e52b1a0de37e2ff021c4924d689dce7dcff2e7d74b39aea16c0453e69be18",
-      "download_count": 452,
+      "download_count": 908,
       "created_at": "2026-10-02T14:23:06Z",
       "updated_at": "2026-10-02T14:23:09Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 27712581,
       "digest": "sha256:26862f00dea073999a7809f9e549d5801c40a586126a6ead2b51ccdd24b441b3",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-02T14:23:12Z",
       "updated_at": "2026-10-02T14:23:13Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_ppc64le.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 29384412,
       "digest": "sha256:62915a93e638df0cb34da3d12df66e443c7ecb0ffeb87a638433de8676438954",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-02T14:23:12Z",
       "updated_at": "2026-10-02T14:23:14Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_linux_s390x.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 31168176,
       "digest": "sha256:024927f5caefdc05aa4f98453e269a40e9a82978a142dacaf18c67fcab378810",
-      "download_count": 388,
+      "download_count": 668,
       "created_at": "2026-10-02T14:23:09Z",
       "updated_at": "2026-10-02T14:23:11Z",
       "browser_download_url": "https://github.com/anchore/grype/releases/download/v0.120.0/grype_0.120.0_windows_amd64.zip"
