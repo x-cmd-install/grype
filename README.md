@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,985 · **Forks**: 899 · **Open issues**: 1,247 · **Contributors**: 160
+- **Stars**: 12,987 · **Forks**: 904 · **Open issues**: 1,247 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 205 · **Merged PRs**: 2131 · **Open PRs**: 80 · **Closed issues**: 923 · **Open issues**: 324 · **Commits**: 2399
+- **Releases**: 205 · **Merged PRs**: 2131 · **Open PRs**: 82 · **Closed issues**: 923 · **Open issues**: 324 · **Commits**: 2399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 42 | 11 | 7 | 12 | 44 |
-| last60d | 2026-08-08 | 5 | 64 | 19 | 14 | 14 | 65 |
-| 90d | 2026-07-09 | 7 | 100 | 36 | 23 | 20 | 101 |
-| last180d | 2026-04-10 | 12 | 200 | 54 | 52 | 45 | 209 |
-| 360d | 2025-10-12 | 30 | 421 | 66 | 99 | 84 | 420 |
-| last720d | 2024-10-17 | 59 | 948 | 74 | 237 | 151 | 952 |
+| 30d | 2026-09-08 | 3 | 42 | 13 | 7 | 11 | 44 |
+| last60d | 2026-08-09 | 5 | 63 | 20 | 14 | 14 | 65 |
+| 90d | 2026-07-10 | 7 | 96 | 37 | 23 | 20 | 101 |
+| last180d | 2026-04-11 | 12 | 199 | 56 | 52 | 45 | 209 |
+| 360d | 2025-10-13 | 30 | 420 | 68 | 98 | 84 | 420 |
+| last720d | 2024-10-18 | 59 | 948 | 76 | 236 | 150 | 949 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:27:07Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:34:19Z._
