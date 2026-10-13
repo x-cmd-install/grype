@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.120.1` (2026-10-06)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-12
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,009 · **Forks**: 913 · **Open issues**: 1,248 · **Contributors**: 160
+- **Stars**: 13,017 · **Forks**: 914 · **Open issues**: 1,251 · **Contributors**: 160
 
 ## Totals (cumulative)
 
-- **Releases**: 205 · **Merged PRs**: 2136 · **Open PRs**: 91 · **Closed issues**: 922 · **Open issues**: 326 · **Commits**: 2404
+- **Releases**: 205 · **Merged PRs**: 2140 · **Open PRs**: 90 · **Closed issues**: 923 · **Open issues**: 328 · **Commits**: 2408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 39 | 20 | 6 | 12 | 40 |
-| last60d | 2026-08-13 | 4 | 66 | 30 | 14 | 15 | 68 |
-| 90d | 2026-07-14 | 7 | 98 | 44 | 22 | 20 | 96 |
-| last180d | 2026-04-15 | 12 | 200 | 65 | 50 | 46 | 201 |
-| 360d | 2025-10-17 | 28 | 418 | 77 | 94 | 86 | 416 |
-| last720d | 2024-10-22 | 58 | 949 | 85 | 234 | 152 | 952 |
+| 30d | 2026-09-13 | 3 | 43 | 18 | 5 | 15 | 44 |
+| last60d | 2026-08-14 | 4 | 68 | 29 | 13 | 18 | 72 |
+| 90d | 2026-07-15 | 7 | 101 | 43 | 21 | 23 | 100 |
+| last180d | 2026-04-16 | 12 | 203 | 64 | 51 | 48 | 205 |
+| 360d | 2025-10-18 | 28 | 422 | 76 | 95 | 88 | 420 |
+| last720d | 2024-10-23 | 58 | 950 | 84 | 233 | 154 | 954 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:36:25Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:32:08Z._
