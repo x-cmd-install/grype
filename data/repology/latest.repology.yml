@@ -11,19 +11,6 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: grype
-  visiblename: grype
-  version: 0.77.4
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: grype
@@ -576,19 +563,6 @@
   summary: Vulnerability scanner for container images and filesystems (fish completions)
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: grype
-  visiblename: grype
-  version: 0.81.0
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
 - repo: chimera
   subrepo: user
   srcname: grype
@@ -603,9 +577,9 @@
 - repo: chocolatey
   binname: grype
   visiblename: Grype
-  version: 0.120.1
+  version: 0.121.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A vulnerability scanner for container images and filesystems. Easily install the binary to try it out. Works with Syft, the powerful SBOM (software bill of materials) tool for container images and filesystems.
 - repo: fedora_43
   subrepo: updates
@@ -720,6 +694,19 @@
     - Apache-2.0
   categories:
     - app-containers
+- repo: nix_stable_25_11
+  srcname: grype
+  visiblename: grype
+  version: 0.104.1
+  origversion: null
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
+  licenses:
+    - Apache-2.0
 - repo: gentoo
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -825,19 +812,6 @@
     - Apache-2.0
   categories:
     - app-containers
-- repo: nix_stable_25_05
-  srcname: grype
-  visiblename: grype
-  version: 0.92.0
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
 - repo: liguros_develop
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -960,10 +934,36 @@
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
-- repo: nix_stable_25_11
+- repo: nix_stable_24_05
   srcname: grype
   visiblename: grype
-  version: 0.104.1
+  version: 0.77.4
+  origversion: null
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: grype
+  visiblename: grype
+  version: 0.81.0
+  origversion: null
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: grype
+  visiblename: grype
+  version: 0.92.0
   origversion: null
   status: outdated
   summary: Vulnerability scanner for container images and filesystems
