@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,101 · **Forks**: 927 · **Open issues**: 1,259 · **Contributors**: 162
+- **Stars**: 13,108 · **Forks**: 927 · **Open issues**: 1,261 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 206 · **Merged PRs**: 2165 · **Open PRs**: 100 · **Closed issues**: 926 · **Open issues**: 333 · **Commits**: 2433
+- **Releases**: 206 · **Merged PRs**: 2165 · **Open PRs**: 103 · **Closed issues**: 926 · **Open issues**: 335 · **Commits**: 2433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 47 | 27 | 6 | 16 | 60 |
-| last60d | 2026-08-26 | 5 | 88 | 37 | 11 | 22 | 93 |
-| 90d | 2026-07-27 | 7 | 110 | 50 | 19 | 26 | 117 |
-| last180d | 2026-04-28 | 12 | 215 | 72 | 50 | 49 | 227 |
-| 360d | 2025-10-30 | 28 | 436 | 86 | 96 | 91 | 441 |
-| last720d | 2024-11-04 | 58 | 961 | 94 | 231 | 154 | 962 |
+| 30d | 2026-09-26 | 3 | 47 | 29 | 6 | 18 | 42 |
+| last60d | 2026-08-27 | 5 | 87 | 40 | 11 | 24 | 86 |
+| 90d | 2026-07-28 | 7 | 110 | 51 | 19 | 27 | 109 |
+| last180d | 2026-04-29 | 12 | 215 | 75 | 49 | 49 | 217 |
+| 360d | 2025-10-31 | 28 | 435 | 89 | 96 | 93 | 433 |
+| last720d | 2024-11-05 | 58 | 959 | 97 | 229 | 155 | 961 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/grype). **7** are ✅ on the latest upstream release, **60** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/grype). **8** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:08:29Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:16:51Z._
