@@ -1,6 +1,26 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: grype
+  binname: grype-bash-completion
+  visiblename: grype-bash-completion
+  version: 0.61.0
+  origversion: 0.61.0-r1
+  status: outdated
+  summary: Bash completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: grype
+  visiblename: grype
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Vulnerability scanner for container images and filesystems
+- repo: alpine_3_17
+  subrepo: community
+  srcname: grype
   binname: grype
   visiblename: grype
   version: 0.61.0
@@ -37,26 +57,6 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: grype
-  binname: grype-bash-completion
-  visiblename: grype-bash-completion
-  version: 0.61.0
-  origversion: 0.61.0-r1
-  status: outdated
-  summary: Bash completions for grype
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: homebrew
-  srcname: grype
-  visiblename: grype
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Vulnerability scanner for container images and filesystems
 - repo: alpine_3_18
   subrepo: community
   srcname: grype
@@ -507,9 +507,9 @@
   srcname: grype
   binname: grype
   visiblename: grype
-  version: 0.121.0
-  origversion: 0.121.0-1
-  status: outdated
+  version: 0.121.1
+  origversion: 0.121.1-1
+  status: newest
   summary: A vulnerability scanner for container images and filesystems.
   maintainers:
     - barbuk@aur
@@ -588,6 +588,19 @@
   origversion: null
   status: outdated
   summary: A vulnerability scanner for container images and filesystems. Easily install the binary to try it out. Works with Syft, the powerful SBOM (software bill of materials) tool for container images and filesystems.
+- repo: liguros_stable
+  srcname: app-containers/grype
+  visiblename: app-containers/grype
+  version: 0.61.0
+  origversion: null
+  status: legacy
+  summary: A vulnerability scanner for container images and filesystems
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-containers
 - repo: fedora_43
   subrepo: updates
   srcname: grype
@@ -777,19 +790,6 @@
   srcname: app-containers/grype
   visiblename: app-containers/grype
   version: 0.73.0
-  origversion: null
-  status: legacy
-  summary: A vulnerability scanner for container images and filesystems
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - app-containers
-- repo: liguros_stable
-  srcname: app-containers/grype
-  visiblename: app-containers/grype
-  version: 0.61.0
   origversion: null
   status: legacy
   summary: A vulnerability scanner for container images and filesystems
