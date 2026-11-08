@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,200 · **Forks**: 934 · **Open issues**: 1,272 · **Contributors**: 162
+- **Stars**: 13,209 · **Forks**: 934 · **Open issues**: 1,272 · **Contributors**: 162
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 3 | 59 | 31 | 2 | 24 | 60 |
-| last60d | 2026-09-08 | 6 | 104 | 39 | 9 | 34 | 107 |
-| 90d | 2026-08-09 | 8 | 125 | 46 | 16 | 37 | 131 |
-| last180d | 2026-05-11 | 13 | 225 | 72 | 47 | 57 | 233 |
-| 360d | 2025-11-12 | 29 | 452 | 90 | 92 | 104 | 454 |
-| last720d | 2024-11-17 | 59 | 975 | 99 | 225 | 162 | 972 |
+| 30d | 2026-10-09 | 3 | 52 | 29 | 1 | 24 | 60 |
+| last60d | 2026-09-09 | 6 | 103 | 39 | 9 | 34 | 107 |
+| 90d | 2026-08-10 | 8 | 124 | 46 | 16 | 37 | 131 |
+| last180d | 2026-05-12 | 13 | 224 | 72 | 47 | 57 | 233 |
+| 360d | 2025-11-13 | 29 | 450 | 89 | 91 | 104 | 454 |
+| last720d | 2024-11-18 | 59 | 974 | 99 | 225 | 162 | 972 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/grype). **3** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/grype). **6** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:29:13Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:38:11Z._
