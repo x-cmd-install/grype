@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,227 · **Forks**: 936 · **Open issues**: 1,276 · **Contributors**: 162
+- **Stars**: 13,233 · **Forks**: 941 · **Open issues**: 1,278 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 2197 · **Open PRs**: 102 · **Closed issues**: 927 · **Open issues**: 349 · **Commits**: 2464
+- **Releases**: 209 · **Merged PRs**: 2197 · **Open PRs**: 108 · **Closed issues**: 927 · **Open issues**: 351 · **Commits**: 2464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 54 | 25 | 1 | 28 | 53 |
-| last60d | 2026-09-11 | 7 | 100 | 38 | 8 | 38 | 103 |
-| 90d | 2026-08-12 | 8 | 127 | 45 | 16 | 41 | 128 |
-| last180d | 2026-05-14 | 14 | 228 | 69 | 47 | 61 | 229 |
-| 360d | 2025-11-15 | 30 | 453 | 86 | 90 | 107 | 451 |
-| last720d | 2024-11-20 | 60 | 972 | 96 | 223 | 165 | 975 |
+| 30d | 2026-10-12 | 4 | 51 | 30 | 1 | 29 | 53 |
+| last60d | 2026-09-12 | 7 | 100 | 43 | 8 | 40 | 103 |
+| 90d | 2026-08-13 | 8 | 127 | 51 | 16 | 43 | 128 |
+| last180d | 2026-05-15 | 14 | 227 | 75 | 46 | 63 | 229 |
+| 360d | 2025-11-16 | 30 | 453 | 92 | 89 | 109 | 451 |
+| last720d | 2024-11-21 | 60 | 969 | 102 | 223 | 167 | 971 |
 
 ## Release assets
 
@@ -88,11 +88,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/grype). **2** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/grype). **4** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.121.2` | ⚠️ outdated |
+| Homebrew | `0.121.3` | ✅ latest |
 | Fedora rawhide | `0.120.0` | ⚠️ outdated |
 | Nix unstable | `0.120.0` | ⚠️ outdated |
 | Void | `0.109.1` | ⚠️ outdated |
@@ -108,4 +108,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:16:30Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:56:18Z._
