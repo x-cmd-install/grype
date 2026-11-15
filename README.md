@@ -14,11 +14,11 @@ x install grype
 
 ## Code insight
 
-Total: **204,745** lines of code across **1400** files in the top 5 languages.
+Total: **204,762** lines of code across **1400** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 125,759 | 10,450 | 14,788 | 756 |
+| Go | 125,776 | 10,456 | 14,791 | 756 |
 | Json | 76,377 | 0 | 505 | 579 |
 | Sh | 1,303 | 259 | 391 | 12 |
 | Sql | 509 | 44 | 520 | 11 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,263 · **Forks**: 944 · **Open issues**: 1,282 · **Contributors**: 163
+- **Stars**: 13,266 · **Forks**: 946 · **Open issues**: 1,282 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 2205 · **Open PRs**: 107 · **Closed issues**: 931 · **Open issues**: 351 · **Commits**: 2472
+- **Releases**: 209 · **Merged PRs**: 2206 · **Open PRs**: 106 · **Closed issues**: 931 · **Open issues**: 351 · **Commits**: 2473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 4 | 56 | 26 | 4 | 27 | 61 |
-| last60d | 2026-09-15 | 7 | 108 | 41 | 11 | 40 | 111 |
-| 90d | 2026-08-16 | 8 | 132 | 49 | 19 | 43 | 136 |
-| last180d | 2026-05-18 | 14 | 230 | 74 | 49 | 63 | 237 |
-| 360d | 2025-11-19 | 29 | 455 | 91 | 92 | 108 | 459 |
-| last720d | 2024-11-24 | 59 | 975 | 101 | 227 | 167 | 976 |
+| 30d | 2026-10-16 | 4 | 51 | 25 | 4 | 27 | 62 |
+| last60d | 2026-09-16 | 7 | 109 | 40 | 11 | 40 | 112 |
+| 90d | 2026-08-17 | 8 | 133 | 48 | 18 | 43 | 137 |
+| last180d | 2026-05-19 | 14 | 230 | 73 | 48 | 62 | 238 |
+| 360d | 2025-11-20 | 29 | 454 | 90 | 92 | 108 | 460 |
+| last720d | 2024-11-25 | 59 | 973 | 100 | 225 | 167 | 977 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:16:01Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:14:56Z._
