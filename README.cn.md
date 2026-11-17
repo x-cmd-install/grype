@@ -14,12 +14,12 @@ x install grype
 
 ## 代码洞察
 
-合计: **204,762** 行代码（覆盖前 5 种语言、共 **1400** 个文件）。
+合计: **205,837** 行代码（覆盖前 5 种语言、共 **1410** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 125,776 | 10,456 | 14,791 | 756 |
-| Json | 76,377 | 0 | 505 | 579 |
+| Go | 126,606 | 10,513 | 14,867 | 758 |
+| Json | 76,622 | 0 | 505 | 587 |
 | Sh | 1,303 | 259 | 391 | 12 |
 | Sql | 509 | 44 | 520 | 11 |
 | Yaml | 441 | 184 | 1 | 42 |
@@ -41,63 +41,64 @@ x install grype
 
 ## 发布
 
-- **最新版本**: `v0.121.3` (2026-11-09)
-- **最近提交**: 2026-11-14
+- **最新版本**: `v0.122.0` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 13,267 · **Fork**: 947 · **开放 issue**: 1,283 · **贡献者**: 164
+- **Star**: 13,275 · **Fork**: 950 · **开放 issue**: 1,285 · **贡献者**: 165
 
 ## 累计统计
 
-- **发布数**: 209 · **已合并 PR**: 2206 · **开放 PR**: 106 · **已关闭 issue**: 931 · **开放 issue**: 352 · **提交数**: 2473
+- **发布数**: 210 · **已合并 PR**: 2210 · **开放 PR**: 104 · **已关闭 issue**: 931 · **开放 issue**: 354 · **提交数**: 2477
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 51 | 25 | 4 | 28 | 50 |
-| last60d | 2026-09-17 | 7 | 109 | 40 | 11 | 41 | 103 |
-| 90d | 2026-08-18 | 8 | 133 | 47 | 18 | 44 | 136 |
-| last180d | 2026-05-20 | 14 | 230 | 73 | 48 | 62 | 234 |
-| 360d | 2025-11-21 | 29 | 452 | 90 | 92 | 109 | 449 |
-| last720d | 2024-11-26 | 59 | 972 | 100 | 224 | 168 | 977 |
+| 30d | 2026-10-18 | 5 | 54 | 24 | 4 | 29 | 54 |
+| last60d | 2026-09-18 | 7 | 104 | 39 | 11 | 43 | 107 |
+| 90d | 2026-08-19 | 9 | 135 | 46 | 18 | 46 | 140 |
+| last180d | 2026-05-21 | 15 | 233 | 71 | 48 | 64 | 238 |
+| 360d | 2025-11-22 | 30 | 455 | 88 | 92 | 111 | 453 |
+| last720d | 2024-11-27 | 60 | 975 | 98 | 224 | 169 | 975 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [grype_0.121.3_checksums.txt](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_checksums.txt) | 1.4 KiB | `other` |
-| [grype_0.121.3_checksums.txt.sigstore.json](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_checksums.txt.sigstore.json) | 10.0 KiB | `other` |
-| [grype_0.121.3_darwin_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_darwin_amd64.tar.gz) | 30.7 MiB | `native/darwin/x64` |
-| [grype_0.121.3_darwin_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_darwin_arm64.tar.gz) | 28.0 MiB | `native/darwin/arm64` |
-| [grype_0.121.3_linux_amd64.deb](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_amd64.deb) | 31.1 MiB | `native/linux/x64` |
-| [grype_0.121.3_linux_amd64.rpm](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_amd64.rpm) | 31.1 MiB | `native/linux/x64` |
-| [grype_0.121.3_linux_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_amd64.tar.gz) | 31.1 MiB | `native/linux/x64` |
-| [grype_0.121.3_linux_arm64.deb](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_arm64.deb) | 28.4 MiB | `native/linux/arm64` |
-| [grype_0.121.3_linux_arm64.rpm](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_arm64.rpm) | 28.2 MiB | `native/linux/arm64` |
-| [grype_0.121.3_linux_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_arm64.tar.gz) | 28.4 MiB | `native/linux/arm64` |
-| [grype_0.121.3_linux_ppc64le.deb](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_ppc64le.deb) | 28.4 MiB | `other` |
-| [grype_0.121.3_linux_ppc64le.rpm](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_ppc64le.rpm) | 28.2 MiB | `other` |
-| [grype_0.121.3_linux_ppc64le.tar.gz](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_ppc64le.tar.gz) | 28.4 MiB | `native/unknown` |
-| [grype_0.121.3_linux_s390x.deb](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_s390x.deb) | 30.0 MiB | `runtime/deb/s390x` |
-| [grype_0.121.3_linux_s390x.rpm](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_s390x.rpm) | 29.9 MiB | `other` |
-| [grype_0.121.3_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_linux_s390x.tar.gz) | 30.0 MiB | `native/unknown` |
-| [grype_0.121.3_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.121.3/grype_0.121.3_windows_amd64.zip) | 30.1 MiB | `native/win/x64` |
+| [grype_0.122.0_checksums.txt](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_checksums.txt) | 1.4 KiB | `other` |
+| [grype_0.122.0_checksums.txt.sigstore.json](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_checksums.txt.sigstore.json) | 10.0 KiB | `other` |
+| [grype_0.122.0_darwin_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_darwin_amd64.tar.gz) | 30.8 MiB | `native/darwin/x64` |
+| [grype_0.122.0_darwin_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_darwin_arm64.tar.gz) | 28.1 MiB | `native/darwin/arm64` |
+| [grype_0.122.0_linux_amd64.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_amd64.deb) | 31.2 MiB | `native/linux/x64` |
+| [grype_0.122.0_linux_amd64.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_amd64.rpm) | 31.1 MiB | `native/linux/x64` |
+| [grype_0.122.0_linux_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_amd64.tar.gz) | 31.2 MiB | `native/linux/x64` |
+| [grype_0.122.0_linux_arm64.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_arm64.deb) | 28.4 MiB | `native/linux/arm64` |
+| [grype_0.122.0_linux_arm64.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_arm64.rpm) | 28.3 MiB | `native/linux/arm64` |
+| [grype_0.122.0_linux_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_arm64.tar.gz) | 28.4 MiB | `native/linux/arm64` |
+| [grype_0.122.0_linux_ppc64le.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_ppc64le.deb) | 28.5 MiB | `other` |
+| [grype_0.122.0_linux_ppc64le.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_ppc64le.rpm) | 28.3 MiB | `other` |
+| [grype_0.122.0_linux_ppc64le.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_ppc64le.tar.gz) | 28.5 MiB | `native/unknown` |
+| [grype_0.122.0_linux_s390x.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_s390x.deb) | 30.1 MiB | `runtime/deb/s390x` |
+| [grype_0.122.0_linux_s390x.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_s390x.rpm) | 30.0 MiB | `other` |
+| [grype_0.122.0_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_s390x.tar.gz) | 30.1 MiB | `native/unknown` |
+| [grype_0.122.0_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_windows_amd64.zip) | 30.2 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/grype) 上共有 **83** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**54** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/grype) 上共有 **87** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**69** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.121.3` | ✅ latest |
+| Debian unstable | `0.120.1` | ⚠️ outdated |
+| Homebrew | `0.122.0` | ✅ latest |
 | Fedora rawhide | `0.120.0` | ⚠️ outdated |
 | Nix unstable | `0.120.0` | ⚠️ outdated |
 | Void | `0.109.1` | ⚠️ outdated |
-| Alpine edge | `0.121.3` | ✅ latest |
-| openSUSE Tumbleweed | `0.121.2` | ⚠️ outdated |
+| Alpine edge | `0.121.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.121.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -108,4 +109,4 @@ grype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:41:58Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:06:28Z._
