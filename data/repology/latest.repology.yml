@@ -421,7 +421,7 @@
   visiblename: grype
   version: 0.121.3
   origversion: 0.121.3-r0
-  status: newest
+  status: outdated
   summary: Vulnerability scanner for container images, filesystems, and SBOMs
   maintainers:
     - michal@polanski.me
@@ -434,7 +434,7 @@
   visiblename: grype-bash-completion
   version: 0.121.3
   origversion: 0.121.3-r0
-  status: newest
+  status: outdated
   summary: Bash completions for grype
   maintainers:
     - michal@polanski.me
@@ -447,7 +447,7 @@
   visiblename: grype-fish-completion
   version: 0.121.3
   origversion: 0.121.3-r0
-  status: newest
+  status: outdated
   summary: Fish completions for grype
   maintainers:
     - michal@polanski.me
@@ -460,7 +460,7 @@
   visiblename: grype-zsh-completion
   version: 0.121.3
   origversion: 0.121.3-r0
-  status: newest
+  status: outdated
   summary: Zsh completions for grype
   maintainers:
     - michal@polanski.me
@@ -502,7 +502,7 @@
   visiblename: grype
   version: 0.121.3
   origversion: 0.121.3-1
-  status: newest
+  status: outdated
   summary: A vulnerability scanner for container images and filesystems.
   maintainers:
     - barbuk@aur
@@ -514,7 +514,7 @@
   visiblename: grype-bin
   version: 0.121.3
   origversion: 0.121.3-1
-  status: newest
+  status: outdated
   summary: A vulnerability scanner for container images and filesystems.
   maintainers:
     - staticnoise@aur
@@ -579,8 +579,50 @@
   visiblename: Grype
   version: 0.121.3
   origversion: null
-  status: newest
+  status: outdated
   summary: A vulnerability scanner for container images and filesystems. Easily install the binary to try it out. Works with Syft, the powerful SBOM (software bill of materials) tool for container images and filesystems.
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: grype
+  binnames:
+    - grype
+  visiblename: grype
+  version: 0.120.1
+  origversion: 0.120.1+ds1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - juan.mendezr@proton.me
+  categories:
+    - devel
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: grype
+  binnames:
+    - grype
+  visiblename: grype
+  version: 0.120.1
+  origversion: 0.120.1+ds1-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - juan.mendezr@proton.me
+  categories:
+    - devel
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: grype
+  binnames:
+    - grype
+  visiblename: grype
+  version: 0.120.1
+  origversion: 0.120.1+ds1-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - juan.mendezr@proton.me
+  categories:
+    - devel
 - repo: fedora_43
   subrepo: updates
   srcname: grype
@@ -611,6 +653,22 @@
   summary: A vulnerability scanner for container images and filesystems
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-SA-4.0 AND CC0-1.0 AND GPL-2.0-only AND ISC AND LicenseRef-Fedora-Public-Domain AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later) AND (LicenseRef-Fedora-Public-Domain OR LicenseRef-scancode-other-permissive)
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: grype
+  binnames:
+    - grype
+    - grype-debuginfo
+    - grype-debugsource
+  visiblename: grype
+  version: 0.105.0
+  origversion: 0.105.0-2.fc45
+  status: outdated
+  summary: A vulnerability scanner for container images and filesystems
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-4.0 AND CC0-1.0 AND GPL-2.0-only AND ISC AND LicenseRef-Fedora-Public-Domain AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later) AND (LicenseRef-Fedora-Public-Domain OR LicenseRef-scancode-other-permissive)
   categories:
     - Unspecified
 - repo: fedora_rawhide
@@ -710,7 +768,7 @@
 - repo: homebrew
   srcname: grype
   visiblename: grype
-  version: 0.121.3
+  version: 0.122.0
   origversion: null
   status: newest
   summary: Vulnerability scanner for container images and filesystems
@@ -883,7 +941,7 @@
   visiblename: grype
   version: 0.121.3
   origversion: null
-  status: newest
+  status: outdated
   summary: A vulnerability scanner for container images and filesystems
   maintainers:
     - herbygillot@github
@@ -897,7 +955,7 @@
   visiblename: mingw-w64-clang-x86_64-grype
   version: 0.121.3
   origversion: 0.121.3-1
-  status: newest
+  status: outdated
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -907,7 +965,7 @@
   visiblename: mingw-w64-clang-aarch64-grype
   version: 0.121.3
   origversion: 0.121.3-1
-  status: newest
+  status: outdated
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -917,7 +975,7 @@
   visiblename: mingw-w64-ucrt-x86_64-grype
   version: 0.121.3
   origversion: 0.121.3-1
-  status: newest
+  status: outdated
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -1010,8 +1068,8 @@
     - grype-fish-completion
     - grype-zsh-completion
   visiblename: grype
-  version: 0.121.2
-  origversion: 0.121.2-1.1
+  version: 0.121.3
+  origversion: 0.121.3-1.1
   status: outdated
   summary: A vulnerability scanner for container images and filesystems
   licenses:
@@ -1022,7 +1080,7 @@
   subrepo: main
   binname: grype
   visiblename: grype
-  version: 0.121.3
+  version: 0.122.0
   origversion: null
   status: newest
   licenses:
