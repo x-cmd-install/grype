@@ -14,11 +14,11 @@ x install grype
 
 ## Code insight
 
-Total: **205,837** lines of code across **1410** files in the top 5 languages.
+Total: **205,862** lines of code across **1410** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 126,606 | 10,513 | 14,867 | 758 |
+| Go | 126,631 | 10,517 | 14,871 | 758 |
 | Json | 76,622 | 0 | 505 | 587 |
 | Sh | 1,303 | 259 | 391 | 12 |
 | Sql | 509 | 44 | 520 | 11 |
@@ -41,61 +41,61 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.122.0` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Latest**: `v0.122.1` (2026-11-18)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,275 · **Forks**: 950 · **Open issues**: 1,285 · **Contributors**: 165
+- **Stars**: 13,297 · **Forks**: 951 · **Open issues**: 1,286 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 2210 · **Open PRs**: 104 · **Closed issues**: 931 · **Open issues**: 354 · **Commits**: 2477
+- **Releases**: 211 · **Merged PRs**: 2211 · **Open PRs**: 105 · **Closed issues**: 933 · **Open issues**: 353 · **Commits**: 2478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 5 | 54 | 24 | 4 | 29 | 54 |
-| last60d | 2026-09-18 | 7 | 104 | 39 | 11 | 43 | 107 |
-| 90d | 2026-08-19 | 9 | 135 | 46 | 18 | 46 | 140 |
-| last180d | 2026-05-21 | 15 | 233 | 71 | 48 | 64 | 238 |
-| 360d | 2025-11-22 | 30 | 455 | 88 | 92 | 111 | 453 |
-| last720d | 2024-11-27 | 60 | 975 | 98 | 224 | 169 | 975 |
+| 30d | 2026-10-20 | 5 | 47 | 21 | 5 | 26 | 55 |
+| last60d | 2026-09-20 | 8 | 105 | 40 | 13 | 42 | 108 |
+| 90d | 2026-08-21 | 10 | 134 | 45 | 19 | 43 | 141 |
+| last180d | 2026-05-23 | 16 | 233 | 71 | 50 | 63 | 239 |
+| 360d | 2025-11-24 | 31 | 454 | 89 | 94 | 110 | 454 |
+| last720d | 2024-11-29 | 61 | 975 | 99 | 226 | 168 | 976 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [grype_0.122.0_checksums.txt](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_checksums.txt) | 1.4 KiB | `other` |
-| [grype_0.122.0_checksums.txt.sigstore.json](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_checksums.txt.sigstore.json) | 10.0 KiB | `other` |
-| [grype_0.122.0_darwin_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_darwin_amd64.tar.gz) | 30.8 MiB | `native/darwin/x64` |
-| [grype_0.122.0_darwin_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_darwin_arm64.tar.gz) | 28.1 MiB | `native/darwin/arm64` |
-| [grype_0.122.0_linux_amd64.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_amd64.deb) | 31.2 MiB | `native/linux/x64` |
-| [grype_0.122.0_linux_amd64.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_amd64.rpm) | 31.1 MiB | `native/linux/x64` |
-| [grype_0.122.0_linux_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_amd64.tar.gz) | 31.2 MiB | `native/linux/x64` |
-| [grype_0.122.0_linux_arm64.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_arm64.deb) | 28.4 MiB | `native/linux/arm64` |
-| [grype_0.122.0_linux_arm64.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_arm64.rpm) | 28.3 MiB | `native/linux/arm64` |
-| [grype_0.122.0_linux_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_arm64.tar.gz) | 28.4 MiB | `native/linux/arm64` |
-| [grype_0.122.0_linux_ppc64le.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_ppc64le.deb) | 28.5 MiB | `other` |
-| [grype_0.122.0_linux_ppc64le.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_ppc64le.rpm) | 28.3 MiB | `other` |
-| [grype_0.122.0_linux_ppc64le.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_ppc64le.tar.gz) | 28.5 MiB | `native/unknown` |
-| [grype_0.122.0_linux_s390x.deb](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_s390x.deb) | 30.1 MiB | `runtime/deb/s390x` |
-| [grype_0.122.0_linux_s390x.rpm](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_s390x.rpm) | 30.0 MiB | `other` |
-| [grype_0.122.0_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_linux_s390x.tar.gz) | 30.1 MiB | `native/unknown` |
-| [grype_0.122.0_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.122.0/grype_0.122.0_windows_amd64.zip) | 30.2 MiB | `native/win/x64` |
+| [grype_0.122.1_checksums.txt](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_checksums.txt) | 1.4 KiB | `other` |
+| [grype_0.122.1_checksums.txt.sigstore.json](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_checksums.txt.sigstore.json) | 10.0 KiB | `other` |
+| [grype_0.122.1_darwin_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_darwin_amd64.tar.gz) | 30.8 MiB | `native/darwin/x64` |
+| [grype_0.122.1_darwin_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_darwin_arm64.tar.gz) | 28.1 MiB | `native/darwin/arm64` |
+| [grype_0.122.1_linux_amd64.deb](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_amd64.deb) | 31.2 MiB | `native/linux/x64` |
+| [grype_0.122.1_linux_amd64.rpm](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_amd64.rpm) | 31.1 MiB | `native/linux/x64` |
+| [grype_0.122.1_linux_amd64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_amd64.tar.gz) | 31.2 MiB | `native/linux/x64` |
+| [grype_0.122.1_linux_arm64.deb](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_arm64.deb) | 28.4 MiB | `native/linux/arm64` |
+| [grype_0.122.1_linux_arm64.rpm](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_arm64.rpm) | 28.3 MiB | `native/linux/arm64` |
+| [grype_0.122.1_linux_arm64.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_arm64.tar.gz) | 28.4 MiB | `native/linux/arm64` |
+| [grype_0.122.1_linux_ppc64le.deb](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_ppc64le.deb) | 28.5 MiB | `other` |
+| [grype_0.122.1_linux_ppc64le.rpm](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_ppc64le.rpm) | 28.3 MiB | `other` |
+| [grype_0.122.1_linux_ppc64le.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_ppc64le.tar.gz) | 28.5 MiB | `native/unknown` |
+| [grype_0.122.1_linux_s390x.deb](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_s390x.deb) | 30.1 MiB | `runtime/deb/s390x` |
+| [grype_0.122.1_linux_s390x.rpm](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_s390x.rpm) | 30.0 MiB | `other` |
+| [grype_0.122.1_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_s390x.tar.gz) | 30.1 MiB | `native/unknown` |
+| [grype_0.122.1_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_windows_amd64.zip) | 30.2 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **87** distros on [repology.org](https://repology.org/project/grype). **2** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
+Reported by **86** distros on [repology.org](https://repology.org/project/grype). **3** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.120.1` | ⚠️ outdated |
-| Homebrew | `0.122.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.120.0` | ⚠️ outdated |
-| Nix unstable | `0.120.0` | ⚠️ outdated |
+| Nix unstable | `0.121.3` | ⚠️ outdated |
 | Void | `0.109.1` | ⚠️ outdated |
 | Alpine edge | `0.121.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.121.3` | ⚠️ outdated |
@@ -109,4 +109,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:06:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:33:36Z._
