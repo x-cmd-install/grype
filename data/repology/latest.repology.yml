@@ -512,9 +512,9 @@
   srcname: grype-bin
   binname: grype-bin
   visiblename: grype-bin
-  version: 0.121.3
-  origversion: 0.121.3-1
-  status: outdated
+  version: 0.122.1
+  origversion: 0.122.1-1
+  status: newest
   summary: A vulnerability scanner for container images and filesystems.
   maintainers:
     - staticnoise@aur
@@ -625,19 +625,6 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-SA-4.0 AND CC0-1.0 AND GPL-2.0-only AND ISC AND LicenseRef-Fedora-Public-Domain AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later) AND (LicenseRef-Fedora-Public-Domain OR LicenseRef-scancode-other-permissive)
   categories:
     - Unspecified
-- repo: liguros_stable
-  srcname: app-containers/grype
-  visiblename: app-containers/grype
-  version: 0.73.0
-  origversion: null
-  status: legacy
-  summary: A vulnerability scanner for container images and filesystems
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - app-containers
 - repo: fedora_44
   subrepo: updates
   srcname: grype
@@ -654,13 +641,6 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-SA-4.0 AND CC0-1.0 AND GPL-2.0-only AND ISC AND LicenseRef-Fedora-Public-Domain AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later) AND (LicenseRef-Fedora-Public-Domain OR LicenseRef-scancode-other-permissive)
   categories:
     - Unspecified
-- repo: homebrew
-  srcname: grype
-  visiblename: grype
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Vulnerability scanner for container images and filesystems
 - repo: fedora_45
   subrepo: release
   srcname: grype
@@ -675,6 +655,25 @@
   summary: A vulnerability scanner for container images and filesystems
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-4.0 AND CC0-1.0 AND GPL-2.0-only AND ISC AND LicenseRef-Fedora-Public-Domain AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later) AND (LicenseRef-Fedora-Public-Domain OR LicenseRef-scancode-other-permissive)
+  categories:
+    - Unspecified
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: grype
+  binnames:
+    - grype
+    - grype-debuginfo
+    - grype-debugsource
+    - grype-bash-completion
+    - grype-fish-completion
+    - grype-zsh-completion
+  visiblename: grype
+  version: 0.121.3
+  origversion: 0.121.3-1.1
+  status: outdated
+  summary: A vulnerability scanner for container images and filesystems
+  licenses:
+    - Apache-2.0
   categories:
     - Unspecified
 - repo: fedora_rawhide
@@ -778,6 +777,13 @@
   origversion: null
   status: newest
   summary: Vulnerability scanner for container images and filesystems
+- repo: homebrew
+  srcname: grype
+  visiblename: grype
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Vulnerability scanner for container images and filesystems
 - repo: liguros_stable
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -830,15 +836,19 @@
     - Apache-2.0
   categories:
     - app-containers
-- repo: scoop
-  subrepo: main
-  binname: grype
-  visiblename: grype
-  version: 0.122.1
+- repo: liguros_stable
+  srcname: app-containers/grype
+  visiblename: app-containers/grype
+  version: 0.73.0
   origversion: null
-  status: newest
+  status: legacy
+  summary: A vulnerability scanner for container images and filesystems
+  maintainers:
+    - williamh@gentoo.org
   licenses:
     - Apache-2.0
+  categories:
+    - app-containers
 - repo: liguros_stable
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -934,9 +944,9 @@
   srcname: security/grype
   binname: grype
   visiblename: grype
-  version: 0.122.0
+  version: 0.122.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A vulnerability scanner for container images and filesystems
   maintainers:
     - herbygillot@github
@@ -948,9 +958,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-clang-x86_64-grype
   visiblename: mingw-w64-clang-x86_64-grype
-  version: 0.122.0
-  origversion: 0.122.0-1
-  status: outdated
+  version: 0.122.1
+  origversion: 0.122.1-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -958,9 +968,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-clang-aarch64-grype
   visiblename: mingw-w64-clang-aarch64-grype
-  version: 0.122.0
-  origversion: 0.122.0-1
-  status: outdated
+  version: 0.122.1
+  origversion: 0.122.1-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -968,9 +978,9 @@
   srcname: mingw-w64-grype
   binname: mingw-w64-ucrt-x86_64-grype
   visiblename: mingw-w64-ucrt-x86_64-grype
-  version: 0.122.0
-  origversion: 0.122.0-1
-  status: outdated
+  version: 0.122.1
+  origversion: 0.122.1-1
+  status: newest
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -1042,7 +1052,7 @@
 - repo: nix_unstable
   srcname: grype
   visiblename: grype
-  version: 0.121.3
+  version: 0.122.0
   origversion: null
   status: outdated
   summary: Vulnerability scanner for container images and filesystems
@@ -1052,25 +1062,15 @@
     - supra4keanu@hotmail.com
   licenses:
     - Apache-2.0
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: grype
-  binnames:
-    - grype
-    - grype-debuginfo
-    - grype-debugsource
-    - grype-bash-completion
-    - grype-fish-completion
-    - grype-zsh-completion
+- repo: scoop
+  subrepo: main
+  binname: grype
   visiblename: grype
-  version: 0.121.3
-  origversion: 0.121.3-1.1
-  status: outdated
-  summary: A vulnerability scanner for container images and filesystems
+  version: 0.122.1
+  origversion: null
+  status: newest
   licenses:
     - Apache-2.0
-  categories:
-    - Unspecified
 - repo: slackbuilds
   srcname: development/grype
   visiblename: development/grype
