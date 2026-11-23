@@ -577,9 +577,9 @@
 - repo: chocolatey
   binname: grype
   visiblename: Grype
-  version: 0.121.3
+  version: 0.122.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A vulnerability scanner for container images and filesystems. Easily install the binary to try it out. Works with Syft, the powerful SBOM (software bill of materials) tool for container images and filesystems.
 - repo: debian_unstable
   subrepo: sid/main
@@ -686,19 +686,6 @@
     - Apache-2.0
   categories:
     - app-containers
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: grype
-  binname: grype
-  visiblename: grype
-  version: 0.109.1
-  origversion: 0.109.1_2
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - cinerea0@protonmail.com
-  licenses:
-    - Apache-2.0
 - repo: gentoo
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -817,6 +804,19 @@
     - Apache-2.0
   categories:
     - app-containers
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: grype
+  binname: grype
+  visiblename: grype
+  version: 0.109.1
+  origversion: 0.109.1_2
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - cinerea0@protonmail.com
+  licenses:
+    - Apache-2.0
 - repo: liguros_stable
   srcname: app-containers/grype
   visiblename: app-containers/grype
