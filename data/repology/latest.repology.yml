@@ -1,14 +1,14 @@
-- repo: alpine_3_17
-  subrepo: community
+- repo: nix_stable_25_11
   srcname: grype
-  binname: grype-bash-completion
-  visiblename: grype-bash-completion
-  version: 0.61.0
-  origversion: 0.61.0-r1
+  visiblename: grype
+  version: 0.104.1
+  origversion: null
   status: outdated
-  summary: Bash completions for grype
+  summary: Vulnerability scanner for container images and filesystems
   maintainers:
-    - michal@polanski.me
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_3_17
@@ -46,6 +46,19 @@
   origversion: 0.61.0-r1
   status: outdated
   summary: Zsh completions for grype
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: grype
+  binname: grype-bash-completion
+  visiblename: grype-bash-completion
+  version: 0.61.0
+  origversion: 0.61.0-r1
+  status: outdated
+  summary: Bash completions for grype
   maintainers:
     - michal@polanski.me
   licenses:
@@ -451,6 +464,19 @@
   summary: Fish completions for grype
   maintainers:
     - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: grype
+  visiblename: grype
+  version: 0.77.4
+  origversion: null
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -609,6 +635,19 @@
     - juan.mendezr@proton.me
   categories:
     - devel
+- repo: nix_stable_24_11
+  srcname: grype
+  visiblename: grype
+  version: 0.81.0
+  origversion: null
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
+  licenses:
+    - Apache-2.0
 - repo: fedora_43
   subrepo: updates
   srcname: grype
@@ -804,19 +843,6 @@
     - Apache-2.0
   categories:
     - app-containers
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: grype
-  binname: grype
-  visiblename: grype
-  version: 0.109.1
-  origversion: 0.109.1_2
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - cinerea0@protonmail.com
-  licenses:
-    - Apache-2.0
 - repo: liguros_stable
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -856,6 +882,19 @@
     - Apache-2.0
   categories:
     - app-containers
+- repo: nix_stable_25_05
+  srcname: grype
+  visiblename: grype
+  version: 0.92.0
+  origversion: null
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
+  licenses:
+    - Apache-2.0
 - repo: liguros_develop
   srcname: app-containers/grype
   visiblename: app-containers/grype
@@ -978,58 +1017,6 @@
   summary: Vulnerability scanner for container images, filesystems, and SBOMs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
-- repo: nix_stable_24_05
-  srcname: grype
-  visiblename: grype
-  version: 0.77.4
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: grype
-  visiblename: grype
-  version: 0.81.0
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: grype
-  visiblename: grype
-  version: 0.92.0
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: grype
-  visiblename: grype
-  version: 0.104.1
-  origversion: null
-  status: outdated
-  summary: Vulnerability scanner for container images and filesystems
-  maintainers:
-    - mail@fabian-affolter.ch
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: grype
   visiblename: grype
@@ -1067,9 +1054,9 @@
     - grype-fish-completion
     - grype-zsh-completion
   visiblename: grype
-  version: 0.121.3
-  origversion: 0.121.3-1.1
-  status: outdated
+  version: 0.122.1
+  origversion: 0.122.1-1.1
+  status: newest
   summary: A vulnerability scanner for container images and filesystems
   licenses:
     - Apache-2.0
@@ -1094,3 +1081,16 @@
     - boxjake.romero@protonmail.com
   categories:
     - development
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: grype
+  binname: grype
+  visiblename: grype
+  version: 0.109.1
+  origversion: 0.109.1_2
+  status: outdated
+  summary: Vulnerability scanner for container images and filesystems
+  maintainers:
+    - cinerea0@protonmail.com
+  licenses:
+    - Apache-2.0
