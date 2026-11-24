@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,328 · **Forks**: 958 · **Open issues**: 1,288 · **Contributors**: 165
+- **Stars**: 13,339 · **Forks**: 959 · **Open issues**: 1,289 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2215 · **Open PRs**: 108 · **Closed issues**: 934 · **Open issues**: 354 · **Commits**: 2482
+- **Releases**: 211 · **Merged PRs**: 2215 · **Open PRs**: 108 · **Closed issues**: 934 · **Open issues**: 355 · **Commits**: 2482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 5 | 40 | 24 | 6 | 24 | 35 |
-| last60d | 2026-09-24 | 8 | 100 | 41 | 13 | 39 | 102 |
-| 90d | 2026-08-25 | 10 | 137 | 48 | 19 | 44 | 135 |
-| last180d | 2026-05-27 | 16 | 236 | 73 | 51 | 61 | 234 |
-| 360d | 2025-11-28 | 30 | 454 | 92 | 94 | 110 | 447 |
-| last720d | 2024-12-03 | 61 | 973 | 102 | 226 | 169 | 976 |
+| 30d | 2026-10-25 | 5 | 40 | 22 | 6 | 23 | 35 |
+| last60d | 2026-09-25 | 8 | 95 | 41 | 13 | 39 | 102 |
+| 90d | 2026-08-26 | 10 | 137 | 48 | 18 | 45 | 135 |
+| last180d | 2026-05-28 | 16 | 236 | 72 | 51 | 62 | 234 |
+| 360d | 2025-11-29 | 30 | 454 | 92 | 94 | 111 | 447 |
+| last720d | 2024-12-04 | 61 | 968 | 102 | 226 | 169 | 974 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **86** distros on [repology.org](https://repology.org/project/grype). **13** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **86** distros on [repology.org](https://repology.org/project/grype). **14** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,7 +98,7 @@ Reported by **86** distros on [repology.org](https://repology.org/project/grype)
 | Nix unstable | `0.122.0` | ⚠️ outdated |
 | Void | `0.109.1` | ⚠️ outdated |
 | Alpine edge | `0.122.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.121.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.122.1` | ✅ latest |
 
 ## Improve this data
 
@@ -109,4 +109,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:25:49Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:20:03Z._
