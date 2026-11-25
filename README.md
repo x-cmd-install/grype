@@ -14,15 +14,15 @@ x install grype
 
 ## Code insight
 
-Total: **205,862** lines of code across **1410** files in the top 5 languages.
+Total: **206,843** lines of code across **1413** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 126,631 | 10,517 | 14,871 | 758 |
-| Json | 76,622 | 0 | 505 | 587 |
+| Go | 127,333 | 10,520 | 14,902 | 760 |
+| Json | 76,900 | 0 | 505 | 588 |
 | Sh | 1,303 | 259 | 391 | 12 |
 | Sql | 509 | 44 | 520 | 11 |
-| Yaml | 441 | 184 | 1 | 42 |
+| Yaml | 442 | 184 | 1 | 42 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.122.1` (2026-11-18)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-24
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,339 · **Forks**: 959 · **Open issues**: 1,289 · **Contributors**: 165
+- **Stars**: 13,343 · **Forks**: 960 · **Open issues**: 1,293 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2215 · **Open PRs**: 108 · **Closed issues**: 934 · **Open issues**: 355 · **Commits**: 2482
+- **Releases**: 211 · **Merged PRs**: 2216 · **Open PRs**: 108 · **Closed issues**: 934 · **Open issues**: 359 · **Commits**: 2483
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 40 | 22 | 6 | 23 | 35 |
-| last60d | 2026-09-25 | 8 | 95 | 41 | 13 | 39 | 102 |
-| 90d | 2026-08-26 | 10 | 137 | 48 | 18 | 45 | 135 |
-| last180d | 2026-05-28 | 16 | 236 | 72 | 51 | 62 | 234 |
-| 360d | 2025-11-29 | 30 | 454 | 92 | 94 | 111 | 447 |
-| last720d | 2024-12-04 | 61 | 968 | 102 | 226 | 169 | 974 |
+| 30d | 2026-10-26 | 5 | 38 | 22 | 6 | 27 | 36 |
+| last60d | 2026-09-26 | 8 | 96 | 40 | 13 | 43 | 103 |
+| 90d | 2026-08-27 | 10 | 137 | 48 | 18 | 49 | 136 |
+| last180d | 2026-05-29 | 16 | 233 | 71 | 51 | 66 | 235 |
+| 360d | 2025-11-30 | 30 | 455 | 92 | 94 | 115 | 448 |
+| last720d | 2024-12-05 | 61 | 969 | 102 | 225 | 173 | 967 |
 
 ## Release assets
 
@@ -86,20 +86,6 @@ Lowest-scoring checks:
 | [grype_0.122.1_linux_s390x.tar.gz](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_linux_s390x.tar.gz) | 30.1 MiB | `native/unknown` |
 | [grype_0.122.1_windows_amd64.zip](https://github.com/anchore/grype/releases/download/v0.122.1/grype_0.122.1_windows_amd64.zip) | 30.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **86** distros on [repology.org](https://repology.org/project/grype). **14** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.120.1` | ⚠️ outdated |
-| Homebrew | `0.122.1` | ✅ latest |
-| Fedora rawhide | `0.120.0` | ⚠️ outdated |
-| Nix unstable | `0.122.0` | ⚠️ outdated |
-| Void | `0.109.1` | ⚠️ outdated |
-| Alpine edge | `0.122.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.122.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `grype` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +95,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:20:03Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:56:57Z._
