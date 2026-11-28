@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.122.1` (2026-11-18)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-27
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,355 · **Forks**: 961 · **Open issues**: 1,296 · **Contributors**: 165
+- **Stars**: 13,363 · **Forks**: 962 · **Open issues**: 1,297 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2216 · **Open PRs**: 115 · **Closed issues**: 934 · **Open issues**: 362 · **Commits**: 2483
+- **Releases**: 211 · **Merged PRs**: 2219 · **Open PRs**: 117 · **Closed issues**: 934 · **Open issues**: 363 · **Commits**: 2486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 5 | 34 | 27 | 6 | 29 | 36 |
-| last60d | 2026-09-28 | 8 | 94 | 47 | 12 | 45 | 103 |
-| 90d | 2026-08-29 | 9 | 133 | 55 | 18 | 52 | 136 |
-| last180d | 2026-05-31 | 16 | 232 | 78 | 51 | 69 | 235 |
-| 360d | 2025-12-02 | 30 | 450 | 99 | 93 | 117 | 448 |
-| last720d | 2024-12-07 | 61 | 966 | 109 | 225 | 176 | 965 |
+| 30d | 2026-10-29 | 5 | 35 | 28 | 6 | 29 | 39 |
+| last60d | 2026-09-29 | 8 | 97 | 48 | 12 | 45 | 106 |
+| 90d | 2026-08-30 | 9 | 135 | 57 | 16 | 53 | 139 |
+| last180d | 2026-06-01 | 16 | 232 | 77 | 51 | 69 | 238 |
+| 360d | 2025-12-03 | 30 | 450 | 101 | 93 | 118 | 451 |
+| last720d | 2024-12-08 | 61 | 969 | 111 | 225 | 177 | 968 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for grype lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:10:40Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:26:23Z._
